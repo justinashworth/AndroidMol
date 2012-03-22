@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndMolActivity!</string>
+    <string name="app_name">AndMol</string>
+    <string name="splash">Minimal 3D molecular structure viewer.\n\nJustin Ashworth 2010&#8211;2012\njustin.ashworth@systemsbiology.org\n\nTouch to rotate. Pinch to zoom.\nMenu to load your own pdb from sdcard (requires installation of a file explorer, e.g. AndExplorer).\n\nTranslation, color schemes, alternative graphical representations not yet supported.\n\n(Tap to continue)</string>
+
+</resources>
